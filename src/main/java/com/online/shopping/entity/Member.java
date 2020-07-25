@@ -1,6 +1,6 @@
-package com.amazon.shopping.entity;
+package com.online.shopping.entity;
 
-import com.amazon.shopping.enums.OrderStatus;
+import com.online.shopping.enums.OrderStatus;
 
 public class Member extends Customer {
 	private Account account;

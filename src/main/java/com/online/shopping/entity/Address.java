@@ -1,4 +1,4 @@
-package com.amazon.shopping.entity;
+package com.online.shopping.entity;
 
 public class Address {
 	private String houseNumber;

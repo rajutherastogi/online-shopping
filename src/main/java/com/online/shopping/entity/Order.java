@@ -1,8 +1,8 @@
-package com.amazon.shopping.entity;
+package com.online.shopping.entity;
 
 import java.sql.Date;
 
-import com.amazon.shopping.enums.OrderStatus;
+import com.online.shopping.enums.OrderStatus;
 
 public class Order {
 	private String orderId;

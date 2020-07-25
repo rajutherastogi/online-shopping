@@ -1,12 +1,12 @@
-package com.amazon.shopping.service;
+package com.online.shopping.service;
 
 import java.util.List;
 
-import com.amazon.shopping.entity.Account;
-import com.amazon.shopping.entity.Item;
-import com.amazon.shopping.entity.Member;
-import com.amazon.shopping.entity.Order;
-import com.amazon.shopping.entity.Product;
+import com.online.shopping.entity.Account;
+import com.online.shopping.entity.Item;
+import com.online.shopping.entity.Member;
+import com.online.shopping.entity.Order;
+import com.online.shopping.entity.Product;
 
 public class AccountManager {
 	public boolean createAccount(final Account account) {

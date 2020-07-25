@@ -1,9 +1,9 @@
-package com.amazon.shopping.service;
+package com.online.shopping.service;
 
 import java.util.List;
 import java.util.Map;
 
-import com.amazon.shopping.entity.Product;
+import com.online.shopping.entity.Product;
 
 public class Catalogue implements Search {
 	private Map<String, List<Product>> productNames;

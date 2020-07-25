@@ -1,8 +1,8 @@
-package com.amazon.shopping.service;
+package com.online.shopping.service;
 
 import java.util.List;
 
-import com.amazon.shopping.entity.Product;
+import com.online.shopping.entity.Product;
 
 public interface Search {
 	public List<Product> searchProductByName(final String name);

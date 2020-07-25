@@ -1,6 +1,6 @@
-package com.amazon.shopping.entity;
+package com.online.shopping.entity;
 
-import com.amazon.shopping.enums.AccountStatus;
+import com.online.shopping.enums.AccountStatus;
 
 public class Account {
 	private String userName;
